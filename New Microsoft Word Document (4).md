@@ -1,27 +1,27 @@
 ﻿**LinkedIn post for project management platform (B2B SAAS product launch)**
 
-`	`Tired of managing your projects? 
+Tired of managing your projects? 
 
-`	`Don’t worry, we are here with our brand-new project management platform.
+Don’t worry, we are here with our brand-new project management platform.
 
 **What is a project management platform?**
 
-`	`One place where you can create, manage, and access files and documents for your business.
+One place where you can create, manage, and access files and documents for your business.
 
 **What does a project management platform do for you?**
 
 1. The project management platform provides a virtual desk where you and your teammates can 
-- Plan 
-- Organize
-- Monitor projects for your business.
+- `Plan` 
+- `Organize`
+- `Monitor` projects for your business.
 1. The project management platform provides you with a virtual room where you and your teammates can 
-- Chan
-- Discuss
-- Schedule projects for your business.
+- `Chan`
+- `Discuss`
+- `Schedule` projects for your business.
 1. The project management platform provides a customized interface where you can keep track of your 
-- Project status
-- Teammates collaboration
-- Business workflow
+- `Project status`
+- `Teammates collaboration`
+- `Business workflow`
 
 **Why our project management platform?**
 
